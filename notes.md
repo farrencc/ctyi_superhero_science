@@ -63,9 +63,6 @@
 
 - **Compasses:** Compasses use magnets to help travelers find their way. The needle in a compass is a tiny magnet, and it always points towards the North Pole, which is super handy for navigation.
 
-Certainly! Here's the revised set of notes with each topic prefaced by "Topic:":
-
-markdown
 
 # X-Men and Evolution
 
